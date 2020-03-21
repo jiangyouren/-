@@ -1,0 +1,24 @@
+/*类选择器的引用*/
+.extend{
+	width: 192px;
+	/*border: 1px solid red;*/
+	margin: 10px auto;
+}
+.extend_content{
+	width: 180px;
+	margin: 10px auto;
+	font-size: 0px;
+}
+p{
+	background-color: #f2f2f2;
+	height: 36px;
+	margin: 0;
+	font-size: 14px;
+	line-height: 36px;
+	color: #333333;
+	text-indent: 5px;
+}
+.content{
+	margin-top:16px ;
+	
+}
